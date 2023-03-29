@@ -17,7 +17,7 @@
 </div>
 
 ## Contato
-<a href="jemail:oaovitorrsabino@gmail.com">
+<a href="email:joaovitorrsabino@gmail.com">
  <img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://linkedin.com/in/joão-vitor-rodrigues-sabino-860275231">
